@@ -2,8 +2,6 @@
 
 ### A software engineer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThaiBao11125" alt="ThaiBao11125" /></a> </p>
-
 - 🔭 I'm currently working on **n8n Toolbox Mobile App**
 
 - 🌱 I'm currently learning **at Danang University of Science and Technology **
